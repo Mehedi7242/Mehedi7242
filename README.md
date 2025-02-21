@@ -4,7 +4,7 @@
 # Hi there!  I’m Mehedi Hasan
 
 - 🌱 Currently diving into **React** and building my foundation in the **MERN stack**.
-- 👀 Interested in **3D graphics** and **animations** using **Three.js**.
+- 👀 Interested in **3D graphics** and **animations** .
 - 💡 Constantly exploring new web technologies to bring innovative ideas to life.
 - 💞️ Open to collaborating on exciting web projects where we can create something impactful together!
 
